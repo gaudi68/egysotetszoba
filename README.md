@@ -37,7 +37,7 @@ egy minimalista szövegalapú kalandjáték a böngésződben
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=vi">Vietnamese</a></td>
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=lt_LT">Lithuanian</a></td>
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=gl">Galician</a></td>
-	<td><a href="http://adarkroom.doublespeakgames.com/?lang=hu">Hungarian</a></td>
+	<td><a href="http://adarkroom.doublespeakgames.com/?lang=hu">Magyar</a></td>
 </tr>
 </table>
 
