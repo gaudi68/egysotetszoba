@@ -31,19 +31,11 @@
 	<script src="lang/langs.js"></script>
 	
 	<script>
-		// try to read "lang" param's from url
+		
 		var lang = 'hu'
-		// if no language requested, try to read it from local storage
-		if(!lang){
-			try {
-				lang = localStorage.lang;
-			} catch(e) {}
-		}
-		// if a language different than english requested, load all translations
-		if(lang && lang != 'hu'){
-			document.write('<script src="lang/'+lang+'/strings.js"><\/script>');
-			document.write('<link rel="stylesheet" type="text/css" href="lang/'+lang+'/main.css" \/>');
-		}
+		document.write('<script src="lang/'+lang+'/strings.js"><\/script>');
+		document.write('<link rel="stylesheet" type="text/css" href="lang/'+lang+'/main.css" \/>');
+		
 	</script>
 	
 	<script src="script/Button.js"></script>
