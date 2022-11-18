@@ -1,13 +1,13 @@
-A Dark Room
+Egy Sötét Szoba
 ===========
-> "awake. head throbbing. vision blurry. come light the fire."
+> "felébredsz. a fejed széthasad. a látásod homályos. gyere, gyújtsd meg a tüzet."
 
-a minimalist text adventure game for your browser
+egy minimalista szövegalapú kalandjáték a böngésződben
 
-[Click to play](http://adarkroom.doublespeakgames.com)
+[Katt a játékhoz](http://adarkroom.doublespeakgames.com)
 
 <table>
-<tr><th colspan=4>Available Languages</tr>
+<tr><th colspan=4>Elérhető Nyelvek</tr>
 <tr>
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=zh_cn">Chinese (Simplified)</a></td>
 	<td><a href="http://adarkroom.doublespeakgames.com/?lang=zh_tw">Chinese (Traditional)</a></td>
@@ -41,7 +41,7 @@ a minimalist text adventure game for your browser
 </tr>
 </table>
 
-or play the latest on [GitHub](http://doublespeakgames.github.io/adarkroom)
+vagy játszd a legfrissebb verziót [GitHub](http://doublespeakgames.github.io/adarkroom)
 
 <a href="https://itunes.apple.com/us/app/a-dark-room/id736683061"><img src="http://i.imgur.com/DMdnDYq.png" height="50"></a>
 <a href="https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom"><img src="http://i.imgur.com/bLWWj4r.png" height="50"></a>
